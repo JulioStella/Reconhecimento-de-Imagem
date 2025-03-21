@@ -1,5 +1,7 @@
 import cv2
 
+##FAZ A DETECÇÃO DO RECONHECIMENTO FACIAL EM FOTOS
+
 # Carrega o classificador pré-treinado
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
