@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+## FAZ DETECÇÃO FACIAL DE FOTO COM EMOÇÃO E IDADE
 import cv2
 import numpy as np
 from deepface import DeepFace
